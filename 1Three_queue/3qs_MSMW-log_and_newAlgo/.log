@@ -1,0 +1,52 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.8.19)  19 AUG 2017 11:24
+entering extended mode
+**'\text{Traffic Intensity }'
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\.tex"
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+File ignored)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> '\text{Traffic I
+                    ntensity }'
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+! Too many }'s.
+<*> '\text{Traffic Intensity }
+                              '
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+Missing character: There is no ' in font nullfont!
+
+*
+! Emergency stop.
+<*> '\text{Traffic Intensity }'
+                               
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493324
+ 197 string characters out of 3139095
+ 53645 words of memory out of 3000000
+ 3645 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,4p,108b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

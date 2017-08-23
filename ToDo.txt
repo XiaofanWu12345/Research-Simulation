@@ -1,0 +1,22 @@
+• Redo the paper simulations
+	More points in heavy traffic
+	Include MSMW-log as well
+	Both 3 queue and 2*2. Note that in 3 queue case, MSMW is identical to MSMW-log
+• Exploring newer algorithms in 3 queue case
+	? Compare MaxWt, PriE and the new Algo 2 and Algo 3
+• Do the simulation for a 3*3 and bigger switches
+• Plotting Sample paths and the cone
+• PURA grant proposal
+	See the performance paper
+				
+Done:
+
+• Mckeown Paper - 
+	? For the 3 queue case and [1/2,1/2,1/2], compare
+		§ MaxWt
+		§ MaxSize_PriMaxWt
+		§ Pri_E
+		§ MaxSize_Random
+		
+• Can you improve MaxWeight by breaking ties carefully?
+			I guess not

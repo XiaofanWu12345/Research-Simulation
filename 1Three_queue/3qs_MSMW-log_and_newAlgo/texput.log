@@ -1,0 +1,23 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.8.19)  19 AUG 2017 11:22
+entering extended mode
+**\\\\text{Traffic Intensity }$(\\\\rho)$
+
+! Emergency stop.
+ ...                                              
+                                                  
+<*> \\\\
+        text{Traffic Intensity }$(\\\\rho)$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 493324
+ 186 string characters out of 3139095
+ 53645 words of memory out of 3000000
+ 3645 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,5p,42b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
