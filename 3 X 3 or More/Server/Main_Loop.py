@@ -45,12 +45,12 @@ def get_S_qavg_lists(Vs, policy, S):
 def main(args):
     for Vs in VLIST:
         for policy in PLIST:
-            num_cores = 10
-            S_qavg_lists = Parallel(n_jobs = num_cores)(delayed(get_S_qavg_lists)(Vs, policy, S) for S in SLIST)
-            # S_qavg_lists = []
-            # for S in SLIST:
-            #     alist = get_S_qavg_lists(Vs, policy, S)
-            #     S_qavg_lists.append(alist)
+            # num_cores = 10
+            # S_qavg_lists = Parallel(n_jobs = num_cores)(delayed(get_S_qavg_lists)(Vs, policy, S) for S in SLIST)
+            S_qavg_lists = []
+            for S in SLIST:
+                alist = get_S_qavg_lists(Vs, policy, S)
+                S_qavg_lists.append(alist)
             S_qavg_lists = sorted(S_qavg_lists, key = lambda sub: sub[0])
             S_headers = [sublist[0] for sublist in S_qavg_lists]
             # a list of S values in ascending order
